@@ -26,6 +26,6 @@ The software is provided "AS IS" without any warranty, either expressed or impli
 
 Download
 --------
-Download Setup https://github.com/saudiqbal/SaudsGoogleDomainsDynamicDNSUpdater/raw/master/DDNS-Setup.zip
+Download Setup https://github.com/str8upx/DynamicDNSUpdater/raw/master/DDNS-Setup.zip
 
-Download Portable https://github.com/saudiqbal/SaudsGoogleDomainsDynamicDNSUpdater/raw/master/DDNS-Portable.exe
+Download Portable https://github.com/str8upx/DynamicDNSUpdater/raw/master/DDNS-Portable.exe
